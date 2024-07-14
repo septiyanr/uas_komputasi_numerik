@@ -15,4 +15,8 @@ V_R1 = I * R1
 V_R2 = I * R2
 V_R3 = I * R3
 
-I, V_R1, V_R2, V_R3
+# Cetak hasil
+print(f"Arus yang mengalir melalui rangkaian: {I} A")
+print(f"Tegangan pada R1: {V_R1} V")
+print(f"Tegangan pada R2: {V_R2} V")
+print(f"Tegangan pada R3: {V_R3} V")
